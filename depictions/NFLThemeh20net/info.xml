@@ -12,10 +12,38 @@
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
+	<shortDescription>American Football NFL Theme by u/h20net</shortDescription>
 	<descriptionlist>
-		<description>A NFL American Football theme. This includes 40 icons (all default apps included). By h20net</description>
+		<description>American Football NFL Theme by u/h20net</description>
+		<description><![CDATA[
+		An American Football NFL Theme containing 40 icons. This includes all the default applications of ios 11 +<br/>
+		a multi-line item.<BR/>
+		-unc0ver (jailbreak application)<BR/>
+		-Cydia<BR/>
+		-Sileo<BR/>
+		-iCleaner Pro<BR/>
+		-Twitter<BR/>
+		-Facebook<BR/>
+		-Youtube<BR/>
+		-Twitch<BR/>
+		-Reddit<BR/>
+		-Fox News<BR/>
+		-Snapchat
+		]]>
+		</description>
+		<description>The theme is tested on ios 11 with SnowBoard but is expected to work with Anemone as well.</description>
+		<description>I will add more if I find more copyright free NFL themed icons. If you experience any problems please contact me!</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>screenshot1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>screenshot2.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

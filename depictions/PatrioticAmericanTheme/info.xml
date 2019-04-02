@@ -1,0 +1,55 @@
+<package>
+	<id>PatrioticAmericanTheme</id>
+	<name>PatrioticAmericanTheme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>A Patriotic American Theme by u/h20net</shortDescription>
+	<descriptionlist>
+		<description>A Patriotic American Theme by u/h20net</description>
+		<description><![CDATA[
+		A Patriotic American Theme containing 53 icons. This includes all the default applications of ios 11 and 12 +<br/><BR/>
+		-unc0ver (jailbreak application)<BR/>
+		-Cydia<BR/>
+		-Sileo<BR/>
+		-iCleaner Pro<BR/>
+		-Twitter<BR/>
+		-Facebook<BR/>
+		-Youtube<BR/>
+		-Twitch<BR/>
+		-Reddit<BR/>
+		-Fox News<BR/>
+		-Snapchat<BR/>
+		-Instagram<BR/>
+		-Messanger<BR/>
+		-WhatsApp<BR/>
+		-Google Chrome<BR/>
+		-Google Maps
+		]]>
+		</description>
+		<description>The theme is tested on ios 11 with SnowBoard but is expected to work with Anemone as well.</description>
+		<description>I will add more if I find more copyright free NFL themed icons. If you experience any problems please contact me!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>screenshot1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>screenshot2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
